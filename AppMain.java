@@ -1,5 +1,5 @@
 package operaciones;
-
+//autor: by bhg
 import java.util.Scanner;
 
 public class AppMain {
